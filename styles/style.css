@@ -1,0 +1,22 @@
+body{
+    background-image:url( '../image/planeta2.jpg');
+    background-size: 100%;
+    text-align: center;
+    display: flex;
+    margin-top: 50px;
+    margin-left: 300px;
+  
+   
+}
+
+#containerP{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+tbody{
+    justify-content: space-between; 
+    align-items: center;
+
+}
+
